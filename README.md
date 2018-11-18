@@ -2,6 +2,6 @@
 
 ## To do:
 ```
-- [X] Complete Flow
+- [x] Complete Flow
 - [ ] Comments
 - [ ] Style Check
